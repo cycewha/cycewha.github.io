@@ -12,6 +12,8 @@
 
 ![news](https://imgnews.pstatic.net/image/003/2021/09/06/NISI20210902_0017905800_web_20210902154624_20210906145907028.jpg?type=w647)
 
+<img src="https://imgnews.pstatic.net/image/003/2021/09/06/NISI20210902_0017905800_web_20210902154624_20210906145907028.jpg?type=w647" alt="drawing" width="50"/>
+
 ```markdown
 Syntax highlighted code block
 
